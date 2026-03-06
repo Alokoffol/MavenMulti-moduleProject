@@ -1,4 +1,4 @@
-import io.qameta.allure.*;
+
 import com.example.repository.UserRepository;
 import com.example.models.User;
 import com.example.service.UserService;
@@ -10,7 +10,7 @@ import org.mockito.junit.MockitoJUnitRunner;
 import static org.mockito.Mockito.*;
 import static org.junit.Assert.*;
 
-@Feature("User Tests")
+
 @RunWith(MockitoJUnitRunner.class)
 public class UserServiceTest {
 
