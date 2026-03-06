@@ -1,0 +1,43 @@
+name: Run Tests with Allure Report
+
+# Когда запускать
+on:
+  push:
+    branches: [ main, develop ]  # при push в эти ветки
+  pull_request:
+    branches: [ main ]           # при создании PR
+  workflow_dispatch:              # можно запустить вручную
+
+jobs:
+  test:
+    runs-on: ubuntu-latest        # используем Ubuntu
+
+    steps:
+      - name: Checkout code       # скачиваем код
+        uses: actions/checkout@v3
+
+      - name: Set up JDK 11       # устанавливаем Java
+        uses: actions/setup-java@v3
+        with:
+          java-version: '11'
+          distribution: 'temurin'
+
+      - name: Cache Maven dependencies  # кэшируем зависимости
+        uses: actions/cache@v3
+        with:
+          path: ~/.m2
+          key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
+          restore-keys: ${{ runner.os }}-m2
+
+      - name: Run tests with Maven  # запускаем тесты
+        run: mvn clean test
+
+      - name: Upload test results  # сохраняем результаты Allure
+        uses: actions/upload-artifact@v3
+        if: always()  # даже если тесты упали
+        with:
+          name: allure-results
+          path: |
+            **/target/allure-results
+            !**/target/allure-results/history
+          retention-days: 7
