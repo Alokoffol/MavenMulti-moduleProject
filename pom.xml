@@ -28,7 +28,7 @@
         <logback.version>1.4.14</logback.version>
     </properties>
 
-    <!-- ТОЛЬКО dependencyManagement, без dependencies -->
+    <!-- ЕДИНЫЙ dependencyManagement -->
     <dependencyManagement>
         <dependencies>
             <!-- JUnit -->
@@ -60,6 +60,13 @@
                 <artifactId>logback-classic</artifactId>
                 <version>${logback.version}</version>
             </dependency>
+
+            <!-- Logback core -->
+            <dependency>
+                <groupId>ch.qos.logback</groupId>
+                <artifactId>logback-core</artifactId>
+                <version>${logback.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
@@ -78,15 +85,10 @@
                     <artifactId>maven-surefire-plugin</artifactId>
                     <version>3.2.5</version>
                     <configuration>
-                        <argLine>
-                            -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
-                        </argLine>
-                        <systemProperties>
-                            <property>
-                                <name>allure.results.directory</name>
-                                <value>${project.build.directory}/allure-results</value>
-                            </property>
-                        </systemProperties>
+                        <!-- ⚠️ УБРАЛИ argLine с aspectjweaver -->
+                        <systemPropertyVariables>
+                            <allure.results.directory>${project.build.directory}/allure-results</allure.results.directory>
+                        </systemPropertyVariables>
                     </configuration>
                 </plugin>
 
