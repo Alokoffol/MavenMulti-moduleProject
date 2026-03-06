@@ -28,7 +28,7 @@
         <logback.version>1.4.14</logback.version>
     </properties>
 
-    <!-- ЕДИНЫЙ dependencyManagement -->
+    <!-- ТОЛЬКО dependencyManagement, без dependencies -->
     <dependencyManagement>
         <dependencies>
             <!-- JUnit -->
@@ -60,35 +60,8 @@
                 <artifactId>logback-classic</artifactId>
                 <version>${logback.version}</version>
             </dependency>
-
-            <!-- Logback core -->
-            <dependency>
-                <groupId>ch.qos.logback</groupId>
-                <artifactId>logback-core</artifactId>
-                <version>${logback.version}</version>
-            </dependency>
         </dependencies>
     </dependencyManagement>
-
-    <!-- Общие зависимости для всех модулей -->
-    <dependencies>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>io.qameta.allure</groupId>
-            <artifactId>allure-junit4</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>ch.qos.logback</groupId>
-            <artifactId>logback-classic</artifactId>
-        </dependency>
-    </dependencies>
 
     <!-- Модули проекта -->
     <modules>
@@ -124,12 +97,5 @@
                 </plugin>
             </plugins>
         </pluginManagement>
-
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-surefire-plugin</artifactId>
-            </plugin>
-        </plugins>
     </build>
 </project>

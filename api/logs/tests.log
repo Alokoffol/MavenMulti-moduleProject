@@ -248,3 +248,439 @@
 2026-03-06 11:56:34.598 [main] INFO  PostApiTest - œÂ‚˚È ÔÓÒÚ: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
 2026-03-06 11:56:34.599 [main] INFO  PostApiTest - ÿ¿√: —ÓÁ‰‡ÂÏ ÌÓ‚˚È ÔÓÒÚ
 2026-03-06 11:56:34.854 [main] INFO  PostApiTest - —ÓÁ‰‡Ì ÔÓÒÚ Ò ID: 101
+2026-03-06 18:15:45.879 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:15:46.618 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:15:46.704 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:15:46.948 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:15:46.969 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:15:47.091 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:30:48.681 [main] INFO  ParameterizedTodoTest - ÿ¿√: “ÂÒÚ: Œ·˚˜Ì‡ˇ Á‡‰‡˜‡
+2026-03-06 18:30:48.691 [main] INFO  ParameterizedTodoTest - ÿ¿√: —ÓÁ‰‡∏Ï Todo Ò userId=1, title=' ÛÔËÚ¸ ıÎÂ·', completed=false
+2026-03-06 18:30:48.701 [main] INFO  ParameterizedTodoTest - ÿ¿√: ŒÚÔ‡‚ÎˇÂÏ POST Á‡ÔÓÒ
+2026-03-06 18:30:49.162 [main] INFO  ParameterizedTodoTest - ÿ¿√: œÓ‚ÂˇÂÏ ÂÁÛÎ¸Ú‡Ú
+2026-03-06 18:30:49.163 [main] INFO  ParameterizedTodoTest - ÿ¿√: ? “ÂÒÚ ‰Îˇ 'Œ·˚˜Ì‡ˇ Á‡‰‡˜‡' ÔÓÈ‰ÂÌ
+2026-03-06 18:30:49.168 [main] INFO  ParameterizedTodoTest - ÿ¿√: “ÂÒÚ: «‡‚Â¯∏ÌÌ‡ˇ Á‡‰‡˜‡
+2026-03-06 18:30:49.169 [main] INFO  ParameterizedTodoTest - ÿ¿√: —ÓÁ‰‡∏Ï Todo Ò userId=2, title='—‰ÂÎ‡Ú¸ ‰ÓÏ‡¯ÍÛ', completed=true
+2026-03-06 18:30:49.170 [main] INFO  ParameterizedTodoTest - ÿ¿√: ŒÚÔ‡‚ÎˇÂÏ POST Á‡ÔÓÒ
+2026-03-06 18:30:49.443 [main] INFO  ParameterizedTodoTest - ÿ¿√: œÓ‚ÂˇÂÏ ÂÁÛÎ¸Ú‡Ú
+2026-03-06 18:30:49.443 [main] INFO  ParameterizedTodoTest - ÿ¿√: ? “ÂÒÚ ‰Îˇ '«‡‚Â¯∏ÌÌ‡ˇ Á‡‰‡˜‡' ÔÓÈ‰ÂÌ
+2026-03-06 18:30:49.446 [main] INFO  ParameterizedTodoTest - ÿ¿√: “ÂÒÚ: ƒÎËÌÌ˚È Á‡„ÓÎÓ‚ÓÍ
+2026-03-06 18:30:49.447 [main] INFO  ParameterizedTodoTest - ÿ¿√: —ÓÁ‰‡∏Ï Todo Ò userId=1, title='Œ˜ÂÌ¸ ‰ÎËÌÌ˚È Á‡„ÓÎÓ‚ÓÍ, ÍÓÚÓ˚È ÏÓÊÂÚ ·˚Ú¸ ‰ÎËÌÌÂÂ Ó·˚˜ÌÓ„Ó Ë ÔÓ‚ÂËÚ¸ Í‡Í API Ò ˝ÚËÏ ÒÔ‡‚ÎˇÂÚÒˇ', completed=false
+2026-03-06 18:30:49.448 [main] INFO  ParameterizedTodoTest - ÿ¿√: ŒÚÔ‡‚ÎˇÂÏ POST Á‡ÔÓÒ
+2026-03-06 18:30:49.708 [main] INFO  ParameterizedTodoTest - ÿ¿√: œÓ‚ÂˇÂÏ ÂÁÛÎ¸Ú‡Ú
+2026-03-06 18:30:49.708 [main] INFO  ParameterizedTodoTest - ÿ¿√: ? “ÂÒÚ ‰Îˇ 'ƒÎËÌÌ˚È Á‡„ÓÎÓ‚ÓÍ' ÔÓÈ‰ÂÌ
+2026-03-06 18:30:49.725 [main] INFO  ParameterizedTodoTest - ÿ¿√: “ÂÒÚ: œÛÒÚÓÈ Á‡„ÓÎÓ‚ÓÍ
+2026-03-06 18:30:49.726 [main] INFO  ParameterizedTodoTest - ÿ¿√: —ÓÁ‰‡∏Ï Todo Ò userId=3, title='', completed=false
+2026-03-06 18:30:49.726 [main] INFO  ParameterizedTodoTest - ÿ¿√: ŒÚÔ‡‚ÎˇÂÏ POST Á‡ÔÓÒ
+2026-03-06 18:30:49.976 [main] INFO  ParameterizedTodoTest - ÿ¿√: œÓ‚ÂˇÂÏ ÂÁÛÎ¸Ú‡Ú
+2026-03-06 18:30:49.976 [main] INFO  ParameterizedTodoTest - ÿ¿√: ? “ÂÒÚ ‰Îˇ 'œÛÒÚÓÈ Á‡„ÓÎÓ‚ÓÍ' ÔÓÈ‰ÂÌ
+2026-03-06 18:30:49.978 [main] INFO  ParameterizedTodoTest - ÿ¿√: “ÂÒÚ: —ÔÂˆÒËÏ‚ÓÎ˚ ‚ Á‡„ÓÎÓ‚ÍÂ
+2026-03-06 18:30:49.978 [main] INFO  ParameterizedTodoTest - ÿ¿√: —ÓÁ‰‡∏Ï Todo Ò userId=5, title='—ÔÂˆÒËÏ‚ÓÎ˚ !@#$%', completed=true
+2026-03-06 18:30:49.980 [main] INFO  ParameterizedTodoTest - ÿ¿√: ŒÚÔ‡‚ÎˇÂÏ POST Á‡ÔÓÒ
+2026-03-06 18:30:50.225 [main] INFO  ParameterizedTodoTest - ÿ¿√: œÓ‚ÂˇÂÏ ÂÁÛÎ¸Ú‡Ú
+2026-03-06 18:30:50.226 [main] INFO  ParameterizedTodoTest - ÿ¿√: ? “ÂÒÚ ‰Îˇ '—ÔÂˆÒËÏ‚ÓÎ˚ ‚ Á‡„ÓÎÓ‚ÍÂ' ÔÓÈ‰ÂÌ
+2026-03-06 18:30:50.229 [main] INFO  PostApiTest - ÿ¿√: ŒÚÔ‡‚ÎˇÂÏ GET Á‡ÔÓÒ Ì‡ /posts
+2026-03-06 18:30:50.403 [main] INFO  PostApiTest - œÓÎÛ˜ÂÌÓ ÔÓÒÚÓ‚: 100
+2026-03-06 18:30:50.404 [main] INFO  PostApiTest - œÂ‚˚È ÔÓÒÚ: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-03-06 18:30:50.406 [main] INFO  PostApiTest - ÿ¿√: —ÓÁ‰‡ÂÏ ÌÓ‚˚È ÔÓÒÚ
+2026-03-06 18:30:50.670 [main] INFO  PostApiTest - —ÓÁ‰‡Ì ÔÓÒÚ Ò ID: 101
+2026-03-06 18:45:37.936 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:38.627 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:38.706 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:38.950 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:38.973 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.113 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.126 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.129 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.271 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.274 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.281 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.284 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.435 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.445 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.705 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.722 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.846 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.851 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.901 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:39.902 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –¢–µ—Å—Ç: –û–±—ã—á–Ω–∞—è –∑–∞–¥–∞—á–∞
+2026-03-06 18:45:39.904 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:39.905 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:39.909 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:39.909 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –°–æ–∑–¥–∞—ë–º Todo —Å userId=1, title='–ö—É–ø–∏—Ç—å —Ö–ª–µ–±', completed=false
+2026-03-06 18:45:39.909 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:39.909 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:39.918 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.920 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:39.920 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –û—Ç–ø—Ä–∞–≤–ª—è–µ–º POST –∑–∞–ø—Ä–æ—Å
+2026-03-06 18:45:39.920 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:39.920 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:39.935 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.939 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:39.943 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.185 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.202 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.204 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.207 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.208 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.208 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –ü—Ä–æ–≤–µ—Ä—è–µ–º —Ä–µ–∑—É–ª—å—Ç–∞—Ç
+2026-03-06 18:45:40.208 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.208 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.208 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.208 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.208 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.208 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.209 [main] INFO  ParameterizedTodoTest - –®–ê–ì: ‚úÖ –¢–µ—Å—Ç –¥–ª—è '–û–±—ã—á–Ω–∞—è –∑–∞–¥–∞—á–∞' –ø—Ä–æ–π–¥–µ–Ω
+2026-03-06 18:45:40.209 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.209 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.209 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.209 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –¢–µ—Å—Ç: –ó–∞–≤–µ—Ä—à—ë–Ω–Ω–∞—è –∑–∞–¥–∞—á–∞
+2026-03-06 18:45:40.209 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.209 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.209 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.209 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –°–æ–∑–¥–∞—ë–º Todo —Å userId=2, title='–°–¥–µ–ª–∞—Ç—å –¥–æ–º–∞—à–∫—É', completed=true
+2026-03-06 18:45:40.209 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.209 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.209 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.210 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.210 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –û—Ç–ø—Ä–∞–≤–ª—è–µ–º POST –∑–∞–ø—Ä–æ—Å
+2026-03-06 18:45:40.210 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.210 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.216 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.219 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.221 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.505 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.523 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.525 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.527 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.528 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.528 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –ü—Ä–æ–≤–µ—Ä—è–µ–º —Ä–µ–∑—É–ª—å—Ç–∞—Ç
+2026-03-06 18:45:40.528 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.528 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.528 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.528 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.528 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.528 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.528 [main] INFO  ParameterizedTodoTest - –®–ê–ì: ‚úÖ –¢–µ—Å—Ç –¥–ª—è '–ó–∞–≤–µ—Ä—à—ë–Ω–Ω–∞—è –∑–∞–¥–∞—á–∞' –ø—Ä–æ–π–¥–µ–Ω
+2026-03-06 18:45:40.528 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.528 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.529 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.529 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –¢–µ—Å—Ç: –î–ª–∏–Ω–Ω—ã–π –∑–∞–≥–æ–ª–æ–≤–æ–∫
+2026-03-06 18:45:40.529 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.529 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.529 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.529 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –°–æ–∑–¥–∞—ë–º Todo —Å userId=1, title='–û—á–µ–Ω—å –¥–ª–∏–Ω–Ω—ã–π –∑–∞–≥–æ–ª–æ–≤–æ–∫, –∫–æ—Ç–æ—Ä—ã–π –º–æ–∂–µ—Ç –±—ã—Ç—å –¥–ª–∏–Ω–Ω–µ–µ –æ–±—ã—á–Ω–æ–≥–æ –∏ –ø—Ä–æ–≤–µ—Ä–∏—Ç—å –∫–∞–∫ API —Å —ç—Ç–∏–º —Å–ø—Ä–∞–≤–ª—è–µ—Ç—Å—è', completed=false
+2026-03-06 18:45:40.529 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.529 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.529 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.529 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.529 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –û—Ç–ø—Ä–∞–≤–ª—è–µ–º POST –∑–∞–ø—Ä–æ—Å
+2026-03-06 18:45:40.529 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.529 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.537 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.539 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.542 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.796 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.812 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.814 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.815 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.816 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.817 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –ü—Ä–æ–≤–µ—Ä—è–µ–º —Ä–µ–∑—É–ª—å—Ç–∞—Ç
+2026-03-06 18:45:40.817 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.817 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.817 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.817 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.817 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.817 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.817 [main] INFO  ParameterizedTodoTest - –®–ê–ì: ‚úÖ –¢–µ—Å—Ç –¥–ª—è '–î–ª–∏–Ω–Ω—ã–π –∑–∞–≥–æ–ª–æ–≤–æ–∫' –ø—Ä–æ–π–¥–µ–Ω
+2026-03-06 18:45:40.817 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.817 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.818 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.818 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –¢–µ—Å—Ç: –ü—É—Å—Ç–æ–π –∑–∞–≥–æ–ª–æ–≤–æ–∫
+2026-03-06 18:45:40.818 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.818 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.818 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.818 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –°–æ–∑–¥–∞—ë–º Todo —Å userId=3, title='', completed=false
+2026-03-06 18:45:40.818 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.818 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.818 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.818 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:40.818 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –û—Ç–ø—Ä–∞–≤–ª—è–µ–º POST –∑–∞–ø—Ä–æ—Å
+2026-03-06 18:45:40.818 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:40.818 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:40.823 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.826 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:40.828 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.058 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.061 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.062 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.079 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.080 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:41.080 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –ü—Ä–æ–≤–µ—Ä—è–µ–º —Ä–µ–∑—É–ª—å—Ç–∞—Ç
+2026-03-06 18:45:41.080 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:41.080 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:41.080 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:41.080 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:41.080 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:41.080 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:41.080 [main] INFO  ParameterizedTodoTest - –®–ê–ì: ‚úÖ –¢–µ—Å—Ç –¥–ª—è '–ü—É—Å—Ç–æ–π –∑–∞–≥–æ–ª–æ–≤–æ–∫' –ø—Ä–æ–π–¥–µ–Ω
+2026-03-06 18:45:41.081 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:41.081 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:41.081 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:41.081 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –¢–µ—Å—Ç: –°–ø–µ—Ü—Å–∏–º–≤–æ–ª—ã –≤ –∑–∞–≥–æ–ª–æ–≤–∫–µ
+2026-03-06 18:45:41.081 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:41.081 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:41.081 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:41.081 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –°–æ–∑–¥–∞—ë–º Todo —Å userId=5, title='–°–ø–µ—Ü—Å–∏–º–≤–æ–ª—ã !@#$%', completed=true
+2026-03-06 18:45:41.081 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:41.081 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:41.081 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.082 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:41.082 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –û—Ç–ø—Ä–∞–≤–ª—è–µ–º POST –∑–∞–ø—Ä–æ—Å
+2026-03-06 18:45:41.082 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:41.082 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:41.088 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.090 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.093 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.336 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.349 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.352 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.358 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.359 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:41.359 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –ü—Ä–æ–≤–µ—Ä—è–µ–º —Ä–µ–∑—É–ª—å—Ç–∞—Ç
+2026-03-06 18:45:41.359 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:41.359 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:41.359 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:41.359 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:41.359 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:41.359 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:41.360 [main] INFO  ParameterizedTodoTest - –®–ê–ì: ‚úÖ –¢–µ—Å—Ç –¥–ª—è '–°–ø–µ—Ü—Å–∏–º–≤–æ–ª—ã –≤ –∑–∞–≥–æ–ª–æ–≤–∫–µ' –ø—Ä–æ–π–¥–µ–Ω
+2026-03-06 18:45:41.360 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:41.360 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:41.360 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:41.360 [main] INFO  PostApiTest - –®–ê–ì: –û—Ç–ø—Ä–∞–≤–ª—è–µ–º GET –∑–∞–ø—Ä–æ—Å –Ω–∞ /posts
+2026-03-06 18:45:41.360 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:41.360 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:41.366 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.368 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.370 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.372 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.525 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.529 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.550 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.554 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.568 [main] INFO  PostApiTest - –ü–æ–ª—É—á–µ–Ω–æ –ø–æ—Å—Ç–æ–≤: 100
+2026-03-06 18:45:41.568 [main] INFO  PostApiTest - –ü–µ—Ä–≤—ã–π –ø–æ—Å—Ç: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-03-06 18:45:41.569 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:45:41.569 [main] INFO  PostApiTest - –®–ê–ì: –°–æ–∑–¥–∞–µ–º –Ω–æ–≤—ã–π –ø–æ—Å—Ç
+2026-03-06 18:45:41.569 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:45:41.569 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:45:41.579 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.582 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.584 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.587 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.866 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.868 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.869 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.872 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:45:41.889 [main] INFO  PostApiTest - –°–æ–∑–¥–∞–Ω –ø–æ—Å—Ç —Å ID: 101
+2026-03-06 18:50:03.414 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.132 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.205 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.451 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.474 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.599 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.611 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.613 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.735 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.737 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.745 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.748 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.887 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:04.894 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.145 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.150 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.272 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.275 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.332 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.333 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –¢–µ—Å—Ç: –û–±—ã—á–Ω–∞—è –∑–∞–¥–∞—á–∞
+2026-03-06 18:50:05.337 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.337 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.346 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.347 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –°–æ–∑–¥–∞—ë–º Todo —Å userId=1, title='–ö—É–ø–∏—Ç—å —Ö–ª–µ–±', completed=false
+2026-03-06 18:50:05.347 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.347 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.359 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.361 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.361 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –û—Ç–ø—Ä–∞–≤–ª—è–µ–º POST –∑–∞–ø—Ä–æ—Å
+2026-03-06 18:50:05.361 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.361 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.375 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.394 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.397 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.641 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.658 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.660 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.662 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.663 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.663 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –ü—Ä–æ–≤–µ—Ä—è–µ–º —Ä–µ–∑—É–ª—å—Ç–∞—Ç
+2026-03-06 18:50:05.663 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.663 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.663 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.663 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.663 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.664 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.664 [main] INFO  ParameterizedTodoTest - –®–ê–ì: ‚úÖ –¢–µ—Å—Ç –¥–ª—è '–û–±—ã—á–Ω–∞—è –∑–∞–¥–∞—á–∞' –ø—Ä–æ–π–¥–µ–Ω
+2026-03-06 18:50:05.664 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.664 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.665 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.665 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –¢–µ—Å—Ç: –ó–∞–≤–µ—Ä—à—ë–Ω–Ω–∞—è –∑–∞–¥–∞—á–∞
+2026-03-06 18:50:05.665 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.665 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.665 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.665 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –°–æ–∑–¥–∞—ë–º Todo —Å userId=2, title='–°–¥–µ–ª–∞—Ç—å –¥–æ–º–∞—à–∫—É', completed=true
+2026-03-06 18:50:05.665 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.665 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.666 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.667 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.667 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –û—Ç–ø—Ä–∞–≤–ª—è–µ–º POST –∑–∞–ø—Ä–æ—Å
+2026-03-06 18:50:05.667 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.667 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.672 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.675 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.677 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.946 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.962 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.965 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.968 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.969 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.969 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –ü—Ä–æ–≤–µ—Ä—è–µ–º —Ä–µ–∑—É–ª—å—Ç–∞—Ç
+2026-03-06 18:50:05.969 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.969 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.969 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.969 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.969 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.969 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.969 [main] INFO  ParameterizedTodoTest - –®–ê–ì: ‚úÖ –¢–µ—Å—Ç –¥–ª—è '–ó–∞–≤–µ—Ä—à—ë–Ω–Ω–∞—è –∑–∞–¥–∞—á–∞' –ø—Ä–æ–π–¥–µ–Ω
+2026-03-06 18:50:05.969 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.969 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.970 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.970 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –¢–µ—Å—Ç: –î–ª–∏–Ω–Ω—ã–π –∑–∞–≥–æ–ª–æ–≤–æ–∫
+2026-03-06 18:50:05.970 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.970 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.970 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.970 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –°–æ–∑–¥–∞—ë–º Todo —Å userId=1, title='–û—á–µ–Ω—å –¥–ª–∏–Ω–Ω—ã–π –∑–∞–≥–æ–ª–æ–≤–æ–∫, –∫–æ—Ç–æ—Ä—ã–π –º–æ–∂–µ—Ç –±—ã—Ç—å –¥–ª–∏–Ω–Ω–µ–µ –æ–±—ã—á–Ω–æ–≥–æ –∏ –ø—Ä–æ–≤–µ—Ä–∏—Ç—å –∫–∞–∫ API —Å —ç—Ç–∏–º —Å–ø—Ä–∞–≤–ª—è–µ—Ç—Å—è', completed=false
+2026-03-06 18:50:05.970 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.970 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.970 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.972 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:05.972 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –û—Ç–ø—Ä–∞–≤–ª—è–µ–º POST –∑–∞–ø—Ä–æ—Å
+2026-03-06 18:50:05.972 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:05.972 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:05.981 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.985 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:05.988 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.243 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.260 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.262 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.264 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.265 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.265 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –ü—Ä–æ–≤–µ—Ä—è–µ–º —Ä–µ–∑—É–ª—å—Ç–∞—Ç
+2026-03-06 18:50:06.265 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.265 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.265 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.265 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.265 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.265 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.265 [main] INFO  ParameterizedTodoTest - –®–ê–ì: ‚úÖ –¢–µ—Å—Ç –¥–ª—è '–î–ª–∏–Ω–Ω—ã–π –∑–∞–≥–æ–ª–æ–≤–æ–∫' –ø—Ä–æ–π–¥–µ–Ω
+2026-03-06 18:50:06.265 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.265 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.265 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.266 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –¢–µ—Å—Ç: –ü—É—Å—Ç–æ–π –∑–∞–≥–æ–ª–æ–≤–æ–∫
+2026-03-06 18:50:06.266 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.266 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.266 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.266 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –°–æ–∑–¥–∞—ë–º Todo —Å userId=3, title='', completed=false
+2026-03-06 18:50:06.266 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.266 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.266 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.267 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.267 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –û—Ç–ø—Ä–∞–≤–ª—è–µ–º POST –∑–∞–ø—Ä–æ—Å
+2026-03-06 18:50:06.267 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.267 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.271 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.273 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.275 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.509 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.514 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.516 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.521 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.523 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.523 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –ü—Ä–æ–≤–µ—Ä—è–µ–º —Ä–µ–∑—É–ª—å—Ç–∞—Ç
+2026-03-06 18:50:06.523 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.523 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.523 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.523 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.523 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.523 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.523 [main] INFO  ParameterizedTodoTest - –®–ê–ì: ‚úÖ –¢–µ—Å—Ç –¥–ª—è '–ü—É—Å—Ç–æ–π –∑–∞–≥–æ–ª–æ–≤–æ–∫' –ø—Ä–æ–π–¥–µ–Ω
+2026-03-06 18:50:06.524 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.524 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.525 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.525 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –¢–µ—Å—Ç: –°–ø–µ—Ü—Å–∏–º–≤–æ–ª—ã –≤ –∑–∞–≥–æ–ª–æ–≤–∫–µ
+2026-03-06 18:50:06.525 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.525 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.527 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.527 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –°–æ–∑–¥–∞—ë–º Todo —Å userId=5, title='–°–ø–µ—Ü—Å–∏–º–≤–æ–ª—ã !@#$%', completed=true
+2026-03-06 18:50:06.527 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.527 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.527 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.527 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.527 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –û—Ç–ø—Ä–∞–≤–ª—è–µ–º POST –∑–∞–ø—Ä–æ—Å
+2026-03-06 18:50:06.527 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.527 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.535 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.537 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.539 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.780 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.783 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.784 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.786 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.801 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.801 [main] INFO  ParameterizedTodoTest - –®–ê–ì: –ü—Ä–æ–≤–µ—Ä—è–µ–º —Ä–µ–∑—É–ª—å—Ç–∞—Ç
+2026-03-06 18:50:06.801 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.801 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.801 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.801 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.801 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.801 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.801 [main] INFO  ParameterizedTodoTest - –®–ê–ì: ‚úÖ –¢–µ—Å—Ç –¥–ª—è '–°–ø–µ—Ü—Å–∏–º–≤–æ–ª—ã –≤ –∑–∞–≥–æ–ª–æ–≤–∫–µ' –ø—Ä–æ–π–¥–µ–Ω
+2026-03-06 18:50:06.801 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.801 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.801 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.802 [main] INFO  PostApiTest - –®–ê–ì: –û—Ç–ø—Ä–∞–≤–ª—è–µ–º GET –∑–∞–ø—Ä–æ—Å –Ω–∞ /posts
+2026-03-06 18:50:06.802 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.802 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.806 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.808 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.810 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.812 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.940 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.944 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.947 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.952 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.969 [main] INFO  PostApiTest - –ü–æ–ª—É—á–µ–Ω–æ –ø–æ—Å—Ç–æ–≤: 100
+2026-03-06 18:50:06.969 [main] INFO  PostApiTest - –ü–µ—Ä–≤—ã–π –ø–æ—Å—Ç: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-03-06 18:50:06.970 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+2026-03-06 18:50:06.970 [main] INFO  PostApiTest - –®–ê–ì: –°–æ–∑–¥–∞–µ–º –Ω–æ–≤—ã–π –ø–æ—Å—Ç
+2026-03-06 18:50:06.970 [main] ERROR io.qameta.allure.AllureLifecycle - Could not update step: no step running
+2026-03-06 18:50:06.970 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: no step running
+2026-03-06 18:50:06.984 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.987 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.989 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:06.991 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:07.238 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:07.240 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:07.242 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:07.259 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 18:50:07.262 [main] INFO  PostApiTest - –°–æ–∑–¥–∞–Ω –ø–æ—Å—Ç —Å ID: 101
