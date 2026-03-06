@@ -5,6 +5,7 @@ import io.restassured.response.Response;
 import org.junit.Test;
 import static io.restassured.RestAssured.*;
 import static org.junit.Assert.*;
+import io.qameta.allure.*;
 
 public class PostApiTest extends BaseTest {
 

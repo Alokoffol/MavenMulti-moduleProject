@@ -6,9 +6,11 @@ import pages.LoginPage;
 import pages.ProductPage;
 import org.junit.Before;
 import org.junit.Test;
+import io.qameta.allure.*;
 import org.junit.After;
 import static org.junit.Assert.*;
 
+@Feature("UI Cart Tests")
 public class CartTests extends FlexibleUiBaseTest {
 
     private ProductPage productPage;

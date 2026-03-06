@@ -3,6 +3,7 @@ import io.qameta.allure.Feature;
 import io.restassured.response.Response;
 import com.example.models.Comment;
 import org.junit.Test;
+import io.qameta.allure.*;
 
 import static io.restassured.RestAssured.given;
 import static org.junit.Assert.assertTrue;

@@ -2,6 +2,7 @@ import base.BaseTest;
 import io.qameta.allure.Feature;
 import com.example.models.Post;
 import org.junit.Test;
+import io.qameta.allure.*;
 
 import java.util.List;
 

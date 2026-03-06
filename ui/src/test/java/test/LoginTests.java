@@ -1,11 +1,13 @@
 package test;
 
+import io.qameta.allure.*;
 import base.UiBaseTest;
 import pages.LoginPage;
 import pages.ProductPage;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
+@Feature("UI Login Tests")
 public class LoginTests extends UiBaseTest {
 
     @Test

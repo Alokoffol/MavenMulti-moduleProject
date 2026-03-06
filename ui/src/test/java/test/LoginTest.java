@@ -1,5 +1,6 @@
 package test;
 
+import io.qameta.allure.*;
 import base.UiBaseTest;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -9,6 +10,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import java.time.Duration;
 
+
+@Feature("UI Login Tests")
 public class LoginTest extends UiBaseTest {
 
     @Test

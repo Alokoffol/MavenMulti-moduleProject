@@ -88,3 +88,163 @@
 2026-03-06 10:15:53.106 [main] INFO  PostApiTest - Первый пост: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
 2026-03-06 10:15:53.108 [main] INFO  PostApiTest - ШАГ: Создаем новый пост
 2026-03-06 10:15:53.382 [main] INFO  PostApiTest - Создан пост с ID: 101
+2026-03-06 11:08:00.641 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:01.203 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:01.243 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:01.497 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:01.505 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:01.634 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:01.647 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:01.650 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:01.772 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:01.774 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:01.783 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:01.785 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:01.996 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.019 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.250 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.254 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.379 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.383 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.397 [main] INFO  ParameterizedTodoTest - РЁРђР“: РўРµСЃС‚: РћР±С‹С‡РЅР°СЏ Р·Р°РґР°С‡Р°
+2026-03-06 11:08:02.411 [main] INFO  ParameterizedTodoTest - РЁРђР“: РЎРѕР·РґР°С‘Рј Todo СЃ userId=1, title='РљСѓРїРёС‚СЊ С…Р»РµР±', completed=false
+2026-03-06 11:08:02.420 [main] INFO  ParameterizedTodoTest - РЁРђР“: РћС‚РїСЂР°РІР»СЏРµРј POST Р·Р°РїСЂРѕСЃ
+2026-03-06 11:08:02.441 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.460 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.466 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.702 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.704 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.706 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.708 [main] INFO  ParameterizedTodoTest - РЁРђР“: РџСЂРѕРІРµСЂСЏРµРј СЂРµР·СѓР»СЊС‚Р°С‚
+2026-03-06 11:08:02.709 [main] INFO  ParameterizedTodoTest - РЁРђР“: вњ… РўРµСЃС‚ РґР»СЏ 'РћР±С‹С‡РЅР°СЏ Р·Р°РґР°С‡Р°' РїСЂРѕР№РґРµРЅ
+2026-03-06 11:08:02.710 [main] INFO  ParameterizedTodoTest - РЁРђР“: РўРµСЃС‚: Р—Р°РІРµСЂС€С‘РЅРЅР°СЏ Р·Р°РґР°С‡Р°
+2026-03-06 11:08:02.711 [main] INFO  ParameterizedTodoTest - РЁРђР“: РЎРѕР·РґР°С‘Рј Todo СЃ userId=2, title='РЎРґРµР»Р°С‚СЊ РґРѕРјР°С€РєСѓ', completed=true
+2026-03-06 11:08:02.711 [main] INFO  ParameterizedTodoTest - РЁРђР“: РћС‚РїСЂР°РІР»СЏРµРј POST Р·Р°РїСЂРѕСЃ
+2026-03-06 11:08:02.718 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.720 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.723 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.966 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.969 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.971 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.973 [main] INFO  ParameterizedTodoTest - РЁРђР“: РџСЂРѕРІРµСЂСЏРµРј СЂРµР·СѓР»СЊС‚Р°С‚
+2026-03-06 11:08:02.973 [main] INFO  ParameterizedTodoTest - РЁРђР“: вњ… РўРµСЃС‚ РґР»СЏ 'Р—Р°РІРµСЂС€С‘РЅРЅР°СЏ Р·Р°РґР°С‡Р°' РїСЂРѕР№РґРµРЅ
+2026-03-06 11:08:02.973 [main] INFO  ParameterizedTodoTest - РЁРђР“: РўРµСЃС‚: Р”Р»РёРЅРЅС‹Р№ Р·Р°РіРѕР»РѕРІРѕРє
+2026-03-06 11:08:02.973 [main] INFO  ParameterizedTodoTest - РЁРђР“: РЎРѕР·РґР°С‘Рј Todo СЃ userId=1, title='РћС‡РµРЅСЊ РґР»РёРЅРЅС‹Р№ Р·Р°РіРѕР»РѕРІРѕРє, РєРѕС‚РѕСЂС‹Р№ РјРѕР¶РµС‚ Р±С‹С‚СЊ РґР»РёРЅРЅРµРµ РѕР±С‹С‡РЅРѕРіРѕ Рё РїСЂРѕРІРµСЂРёС‚СЊ РєР°Рє API СЃ СЌС‚РёРј СЃРїСЂР°РІР»СЏРµС‚СЃСЏ', completed=false
+2026-03-06 11:08:02.973 [main] INFO  ParameterizedTodoTest - РЁРђР“: РћС‚РїСЂР°РІР»СЏРµРј POST Р·Р°РїСЂРѕСЃ
+2026-03-06 11:08:02.982 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.986 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:02.988 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.235 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.238 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.240 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.241 [main] INFO  ParameterizedTodoTest - РЁРђР“: РџСЂРѕРІРµСЂСЏРµРј СЂРµР·СѓР»СЊС‚Р°С‚
+2026-03-06 11:08:03.242 [main] INFO  ParameterizedTodoTest - РЁРђР“: вњ… РўРµСЃС‚ РґР»СЏ 'Р”Р»РёРЅРЅС‹Р№ Р·Р°РіРѕР»РѕРІРѕРє' РїСЂРѕР№РґРµРЅ
+2026-03-06 11:08:03.242 [main] INFO  ParameterizedTodoTest - РЁРђР“: РўРµСЃС‚: РџСѓСЃС‚РѕР№ Р·Р°РіРѕР»РѕРІРѕРє
+2026-03-06 11:08:03.242 [main] INFO  ParameterizedTodoTest - РЁРђР“: РЎРѕР·РґР°С‘Рј Todo СЃ userId=3, title='', completed=false
+2026-03-06 11:08:03.242 [main] INFO  ParameterizedTodoTest - РЁРђР“: РћС‚РїСЂР°РІР»СЏРµРј POST Р·Р°РїСЂРѕСЃ
+2026-03-06 11:08:03.248 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.250 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.252 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.486 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.489 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.491 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.493 [main] INFO  ParameterizedTodoTest - РЁРђР“: РџСЂРѕРІРµСЂСЏРµРј СЂРµР·СѓР»СЊС‚Р°С‚
+2026-03-06 11:08:03.494 [main] INFO  ParameterizedTodoTest - РЁРђР“: вњ… РўРµСЃС‚ РґР»СЏ 'РџСѓСЃС‚РѕР№ Р·Р°РіРѕР»РѕРІРѕРє' РїСЂРѕР№РґРµРЅ
+2026-03-06 11:08:03.495 [main] INFO  ParameterizedTodoTest - РЁРђР“: РўРµСЃС‚: РЎРїРµС†СЃРёРјРІРѕР»С‹ РІ Р·Р°РіРѕР»РѕРІРєРµ
+2026-03-06 11:08:03.496 [main] INFO  ParameterizedTodoTest - РЁРђР“: РЎРѕР·РґР°С‘Рј Todo СЃ userId=5, title='РЎРїРµС†СЃРёРјРІРѕР»С‹ !@#$%', completed=true
+2026-03-06 11:08:03.496 [main] INFO  ParameterizedTodoTest - РЁРђР“: РћС‚РїСЂР°РІР»СЏРµРј POST Р·Р°РїСЂРѕСЃ
+2026-03-06 11:08:03.502 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.504 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.506 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.770 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.774 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.778 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.780 [main] INFO  ParameterizedTodoTest - РЁРђР“: РџСЂРѕРІРµСЂСЏРµРј СЂРµР·СѓР»СЊС‚Р°С‚
+2026-03-06 11:08:03.780 [main] INFO  ParameterizedTodoTest - РЁРђР“: вњ… РўРµСЃС‚ РґР»СЏ 'РЎРїРµС†СЃРёРјРІРѕР»С‹ РІ Р·Р°РіРѕР»РѕРІРєРµ' РїСЂРѕР№РґРµРЅ
+2026-03-06 11:08:03.780 [main] INFO  PostApiTest - РЁРђР“: РћС‚РїСЂР°РІР»СЏРµРј GET Р·Р°РїСЂРѕСЃ РЅР° /posts
+2026-03-06 11:08:03.785 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.787 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.789 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.791 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.947 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.951 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.954 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.958 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.975 [main] INFO  PostApiTest - РџРѕР»СѓС‡РµРЅРѕ РїРѕСЃС‚РѕРІ: 100
+2026-03-06 11:08:03.975 [main] INFO  PostApiTest - РџРµСЂРІС‹Р№ РїРѕСЃС‚: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-03-06 11:08:03.975 [main] INFO  PostApiTest - РЁРђР“: РЎРѕР·РґР°РµРј РЅРѕРІС‹Р№ РїРѕСЃС‚
+2026-03-06 11:08:03.990 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.992 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.994 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:03.996 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:04.228 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:04.230 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:04.231 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:04.233 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:08:04.235 [main] INFO  PostApiTest - РЎРѕР·РґР°РЅ РїРѕСЃС‚ СЃ ID: 101
+2026-03-06 11:34:32.880 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:34:33.544 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:34:33.619 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:34:34.182 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:34:34.190 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:34:34.354 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-03-06 11:36:02.142 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Обычная задача
+2026-03-06 11:36:02.152 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=1, title='Купить хлеб', completed=false
+2026-03-06 11:36:02.161 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 11:36:02.430 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 11:36:02.431 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Обычная задача' пройден
+2026-03-06 11:36:02.435 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Завершённая задача
+2026-03-06 11:36:02.436 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=2, title='Сделать домашку', completed=true
+2026-03-06 11:36:02.436 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 11:36:02.693 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 11:36:02.693 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Завершённая задача' пройден
+2026-03-06 11:36:02.709 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Длинный заголовок
+2026-03-06 11:36:02.709 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=1, title='Очень длинный заголовок, который может быть длиннее обычного и проверить как API с этим справляется', completed=false
+2026-03-06 11:36:02.710 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 11:36:02.957 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 11:36:02.957 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Длинный заголовок' пройден
+2026-03-06 11:36:02.961 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Пустой заголовок
+2026-03-06 11:36:02.961 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=3, title='', completed=false
+2026-03-06 11:36:02.962 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 11:36:03.224 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 11:36:03.224 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Пустой заголовок' пройден
+2026-03-06 11:36:03.226 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Спецсимволы в заголовке
+2026-03-06 11:36:03.226 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=5, title='Спецсимволы !@#$%', completed=true
+2026-03-06 11:36:03.227 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 11:36:03.568 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 11:36:03.569 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Спецсимволы в заголовке' пройден
+2026-03-06 11:36:03.572 [main] INFO  PostApiTest - ШАГ: Отправляем GET запрос на /posts
+2026-03-06 11:36:03.744 [main] INFO  PostApiTest - Получено постов: 100
+2026-03-06 11:36:03.744 [main] INFO  PostApiTest - Первый пост: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-03-06 11:36:03.746 [main] INFO  PostApiTest - ШАГ: Создаем новый пост
+2026-03-06 11:36:04.013 [main] INFO  PostApiTest - Создан пост с ID: 101
+2026-03-06 11:56:33.064 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Обычная задача
+2026-03-06 11:56:33.074 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=1, title='Купить хлеб', completed=false
+2026-03-06 11:56:33.086 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 11:56:33.355 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 11:56:33.355 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Обычная задача' пройден
+2026-03-06 11:56:33.361 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Завершённая задача
+2026-03-06 11:56:33.362 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=2, title='Сделать домашку', completed=true
+2026-03-06 11:56:33.363 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 11:56:33.624 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 11:56:33.624 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Завершённая задача' пройден
+2026-03-06 11:56:33.627 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Длинный заголовок
+2026-03-06 11:56:33.627 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=1, title='Очень длинный заголовок, который может быть длиннее обычного и проверить как API с этим справляется', completed=false
+2026-03-06 11:56:33.627 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 11:56:33.955 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 11:56:33.955 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Длинный заголовок' пройден
+2026-03-06 11:56:33.958 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Пустой заголовок
+2026-03-06 11:56:33.959 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=3, title='', completed=false
+2026-03-06 11:56:33.959 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 11:56:34.198 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 11:56:34.198 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Пустой заголовок' пройден
+2026-03-06 11:56:34.200 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Спецсимволы в заголовке
+2026-03-06 11:56:34.200 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=5, title='Спецсимволы !@#$%', completed=true
+2026-03-06 11:56:34.201 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 11:56:34.443 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 11:56:34.443 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Спецсимволы в заголовке' пройден
+2026-03-06 11:56:34.448 [main] INFO  PostApiTest - ШАГ: Отправляем GET запрос на /posts
+2026-03-06 11:56:34.597 [main] INFO  PostApiTest - Получено постов: 100
+2026-03-06 11:56:34.598 [main] INFO  PostApiTest - Первый пост: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-03-06 11:56:34.599 [main] INFO  PostApiTest - ШАГ: Создаем новый пост
+2026-03-06 11:56:34.854 [main] INFO  PostApiTest - Создан пост с ID: 101

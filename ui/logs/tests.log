@@ -466,3 +466,153 @@
 2026-03-06 10:16:14.271 [main] INFO  test.LoginTests - ============================================================
 2026-03-06 10:16:14.271 [main] INFO  test.LoginTests - ЗАВЕРШЕНИЕ UI ТЕСТА: LoginTests
 2026-03-06 10:16:14.272 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:07:33.980 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:07:33.993 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:07:35.855 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:07:35.859 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:07:42.478 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:07:42.482 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:36:06.526 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:36:06.581 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:36:08.957 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:36:08.961 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:36:15.559 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:36:15.563 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:36:17.238 [main] INFO  test.LoginTest - ============================================================
+2026-03-06 11:36:17.238 [main] INFO  test.LoginTest - НАЧАЛО UI ТЕСТА: LoginTest
+2026-03-06 11:36:17.239 [main] INFO  test.LoginTest - ============================================================
+2026-03-06 11:36:17.239 [main] INFO  test.LoginTest - ? ШАГ: Настройка WebDriver
+2026-03-06 11:36:17.243 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:36:17.247 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:36:17.755 [main] INFO  test.LoginTest - ? ШАГ: Настройка окна браузера
+2026-03-06 11:36:17.788 [main] INFO  test.LoginTest - ? ШАГ: Открытие страницы: https://www.saucedemo.com
+2026-03-06 11:36:18.415 [main] INFO  test.LoginTest - ? Браузер запущен, страница загружена
+2026-03-06 11:36:18.415 [main] INFO  test.LoginTest - ? ШАГ: Запуск браузера
+2026-03-06 11:36:18.924 [main] INFO  test.LoginTest - ? ШАГ: Открытие страницы логина
+2026-03-06 11:36:20.959 [main] INFO  test.LoginTest - ? ШАГ: Ввод логина
+2026-03-06 11:36:21.005 [main] INFO  test.LoginTest - ? ШАГ: Ввод пароля
+2026-03-06 11:36:21.041 [main] INFO  test.LoginTest - ? ШАГ: Нажатие кнопки входа
+2026-03-06 11:36:21.084 [main] INFO  test.LoginTest - ? ШАГ: Проверка результата
+2026-03-06 11:36:21.482 [main] INFO  test.LoginTest - Сообщение: You logged into a secure area!
+?
+2026-03-06 11:36:21.483 [main] INFO  test.LoginTest - ? Тест пройден успешно
+2026-03-06 11:36:21.483 [main] INFO  test.LoginTest - ? ШАГ: Закрытие браузера
+2026-03-06 11:36:21.644 [main] INFO  test.LoginTest - ? ШАГ: Закрытие браузера
+2026-03-06 11:36:21.768 [main] INFO  test.LoginTest - ? Браузер закрыт
+2026-03-06 11:36:21.769 [main] INFO  test.LoginTest - ============================================================
+2026-03-06 11:36:21.769 [main] INFO  test.LoginTest - ЗАВЕРШЕНИЕ UI ТЕСТА: LoginTest
+2026-03-06 11:36:21.769 [main] INFO  test.LoginTest - ============================================================
+2026-03-06 11:36:21.770 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:36:21.770 [main] INFO  test.LoginTests - НАЧАЛО UI ТЕСТА: LoginTests
+2026-03-06 11:36:21.770 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:36:21.770 [main] INFO  test.LoginTests - ? ШАГ: Настройка WebDriver
+2026-03-06 11:36:21.776 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:36:21.779 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:36:22.346 [main] INFO  test.LoginTests - ? ШАГ: Настройка окна браузера
+2026-03-06 11:36:22.389 [main] INFO  test.LoginTests - ? ШАГ: Открытие страницы: https://www.saucedemo.com
+2026-03-06 11:36:23.058 [main] INFO  test.LoginTests - ? Браузер запущен, страница загружена
+2026-03-06 11:36:23.127 [main] INFO  test.LoginTests - ? ШАГ: Закрытие браузера
+2026-03-06 11:36:23.244 [main] INFO  test.LoginTests - ? Браузер закрыт
+2026-03-06 11:36:23.257 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:36:23.257 [main] INFO  test.LoginTests - ЗАВЕРШЕНИЕ UI ТЕСТА: LoginTests
+2026-03-06 11:36:23.257 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:36:23.257 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:36:23.257 [main] INFO  test.LoginTests - НАЧАЛО UI ТЕСТА: LoginTests
+2026-03-06 11:36:23.257 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:36:23.257 [main] INFO  test.LoginTests - ? ШАГ: Настройка WebDriver
+2026-03-06 11:36:23.262 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:36:23.265 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:36:23.823 [main] INFO  test.LoginTests - ? ШАГ: Настройка окна браузера
+2026-03-06 11:36:23.856 [main] INFO  test.LoginTests - ? ШАГ: Открытие страницы: https://www.saucedemo.com
+2026-03-06 11:36:24.439 [main] INFO  test.LoginTests - ? Браузер запущен, страница загружена
+2026-03-06 11:36:24.654 [main] INFO  test.LoginTests - ? ШАГ: Закрытие браузера
+2026-03-06 11:36:24.763 [main] INFO  test.LoginTests - ? Браузер закрыт
+2026-03-06 11:36:24.763 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:36:24.763 [main] INFO  test.LoginTests - ЗАВЕРШЕНИЕ UI ТЕСТА: LoginTests
+2026-03-06 11:36:24.763 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:36:24.764 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:36:24.764 [main] INFO  test.LoginTests - НАЧАЛО UI ТЕСТА: LoginTests
+2026-03-06 11:36:24.764 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:36:24.764 [main] INFO  test.LoginTests - ? ШАГ: Настройка WebDriver
+2026-03-06 11:36:24.768 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:36:24.772 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:36:25.285 [main] INFO  test.LoginTests - ? ШАГ: Настройка окна браузера
+2026-03-06 11:36:25.318 [main] INFO  test.LoginTests - ? ШАГ: Открытие страницы: https://www.saucedemo.com
+2026-03-06 11:36:25.910 [main] INFO  test.LoginTests - ? Браузер запущен, страница загружена
+2026-03-06 11:36:26.052 [main] INFO  test.LoginTests - ? ШАГ: Закрытие браузера
+2026-03-06 11:36:26.149 [main] INFO  test.LoginTests - ? Браузер закрыт
+2026-03-06 11:36:26.149 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:36:26.149 [main] INFO  test.LoginTests - ЗАВЕРШЕНИЕ UI ТЕСТА: LoginTests
+2026-03-06 11:36:26.150 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:56:37.406 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:56:37.445 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:56:40.297 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:56:40.300 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:56:46.987 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:56:46.991 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:56:48.682 [main] INFO  test.LoginTest - ============================================================
+2026-03-06 11:56:48.682 [main] INFO  test.LoginTest - НАЧАЛО UI ТЕСТА: LoginTest
+2026-03-06 11:56:48.682 [main] INFO  test.LoginTest - ============================================================
+2026-03-06 11:56:48.682 [main] INFO  test.LoginTest - ? ШАГ: Настройка WebDriver
+2026-03-06 11:56:48.687 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:56:48.691 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:56:49.275 [main] INFO  test.LoginTest - ? ШАГ: Настройка окна браузера
+2026-03-06 11:56:49.311 [main] INFO  test.LoginTest - ? ШАГ: Открытие страницы: https://www.saucedemo.com
+2026-03-06 11:56:50.076 [main] INFO  test.LoginTest - ? Браузер запущен, страница загружена
+2026-03-06 11:56:50.076 [main] INFO  test.LoginTest - ? ШАГ: Запуск браузера
+2026-03-06 11:56:50.605 [main] INFO  test.LoginTest - ? ШАГ: Открытие страницы логина
+2026-03-06 11:56:52.905 [main] INFO  test.LoginTest - ? ШАГ: Ввод логина
+2026-03-06 11:56:52.951 [main] INFO  test.LoginTest - ? ШАГ: Ввод пароля
+2026-03-06 11:56:52.987 [main] INFO  test.LoginTest - ? ШАГ: Нажатие кнопки входа
+2026-03-06 11:56:53.026 [main] INFO  test.LoginTest - ? ШАГ: Проверка результата
+2026-03-06 11:56:53.416 [main] INFO  test.LoginTest - Сообщение: You logged into a secure area!
+?
+2026-03-06 11:56:53.416 [main] INFO  test.LoginTest - ? Тест пройден успешно
+2026-03-06 11:56:53.416 [main] INFO  test.LoginTest - ? ШАГ: Закрытие браузера
+2026-03-06 11:56:53.554 [main] INFO  test.LoginTest - ? ШАГ: Закрытие браузера
+2026-03-06 11:56:53.692 [main] INFO  test.LoginTest - ? Браузер закрыт
+2026-03-06 11:56:53.692 [main] INFO  test.LoginTest - ============================================================
+2026-03-06 11:56:53.692 [main] INFO  test.LoginTest - ЗАВЕРШЕНИЕ UI ТЕСТА: LoginTest
+2026-03-06 11:56:53.693 [main] INFO  test.LoginTest - ============================================================
+2026-03-06 11:56:53.695 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:56:53.695 [main] INFO  test.LoginTests - НАЧАЛО UI ТЕСТА: LoginTests
+2026-03-06 11:56:53.695 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:56:53.696 [main] INFO  test.LoginTests - ? ШАГ: Настройка WebDriver
+2026-03-06 11:56:53.703 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:56:53.706 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:56:54.254 [main] INFO  test.LoginTests - ? ШАГ: Настройка окна браузера
+2026-03-06 11:56:54.293 [main] INFO  test.LoginTests - ? ШАГ: Открытие страницы: https://www.saucedemo.com
+2026-03-06 11:56:54.913 [main] INFO  test.LoginTests - ? Браузер запущен, страница загружена
+2026-03-06 11:56:54.988 [main] INFO  test.LoginTests - ? ШАГ: Закрытие браузера
+2026-03-06 11:56:55.076 [main] INFO  test.LoginTests - ? Браузер закрыт
+2026-03-06 11:56:55.076 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:56:55.076 [main] INFO  test.LoginTests - ЗАВЕРШЕНИЕ UI ТЕСТА: LoginTests
+2026-03-06 11:56:55.077 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:56:55.077 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:56:55.077 [main] INFO  test.LoginTests - НАЧАЛО UI ТЕСТА: LoginTests
+2026-03-06 11:56:55.077 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:56:55.077 [main] INFO  test.LoginTests - ? ШАГ: Настройка WebDriver
+2026-03-06 11:56:55.081 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:56:55.085 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:56:55.654 [main] INFO  test.LoginTests - ? ШАГ: Настройка окна браузера
+2026-03-06 11:56:55.704 [main] INFO  test.LoginTests - ? ШАГ: Открытие страницы: https://www.saucedemo.com
+2026-03-06 11:56:56.300 [main] INFO  test.LoginTests - ? Браузер запущен, страница загружена
+2026-03-06 11:56:56.471 [main] INFO  test.LoginTests - ? ШАГ: Закрытие браузера
+2026-03-06 11:56:56.595 [main] INFO  test.LoginTests - ? Браузер закрыт
+2026-03-06 11:56:56.595 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:56:56.595 [main] INFO  test.LoginTests - ЗАВЕРШЕНИЕ UI ТЕСТА: LoginTests
+2026-03-06 11:56:56.595 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:56:56.596 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:56:56.596 [main] INFO  test.LoginTests - НАЧАЛО UI ТЕСТА: LoginTests
+2026-03-06 11:56:56.596 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:56:56.596 [main] INFO  test.LoginTests - ? ШАГ: Настройка WebDriver
+2026-03-06 11:56:56.601 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 145.0.7632.117 (resolved driver for Chrome 145)
+2026-03-06 11:56:56.605 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Alok\.cache\selenium\chromedriver\win64\145.0.7632.117\chromedriver.exe
+2026-03-06 11:56:57.186 [main] INFO  test.LoginTests - ? ШАГ: Настройка окна браузера
+2026-03-06 11:56:57.224 [main] INFO  test.LoginTests - ? ШАГ: Открытие страницы: https://www.saucedemo.com
+2026-03-06 11:56:57.931 [main] INFO  test.LoginTests - ? Браузер запущен, страница загружена
+2026-03-06 11:56:58.104 [main] INFO  test.LoginTests - ? ШАГ: Закрытие браузера
+2026-03-06 11:56:58.212 [main] INFO  test.LoginTests - ? Браузер закрыт
+2026-03-06 11:56:58.212 [main] INFO  test.LoginTests - ============================================================
+2026-03-06 11:56:58.212 [main] INFO  test.LoginTests - ЗАВЕРШЕНИЕ UI ТЕСТА: LoginTests
+2026-03-06 11:56:58.212 [main] INFO  test.LoginTests - ============================================================

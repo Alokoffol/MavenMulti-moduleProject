@@ -21,8 +21,9 @@
         <selenium.version>4.15.0</selenium.version>
         <restassured.version>5.3.0</restassured.version>
         <allure.version>2.24.0</allure.version>
+        <aspectj.version>1.9.22</aspectj.version>
 
-        <!-- ⚠️ ДОБАВЛЕНЫ ВЕРСИИ ДЛЯ LOGGING -->
+        <!-- Logging -->
         <slf4j.version>2.0.9</slf4j.version>
         <logback.version>1.4.14</logback.version>
     </properties>
@@ -60,7 +61,7 @@
                 <version>${logback.version}</version>
             </dependency>
 
-            <!-- Logback core (не обязательно, тянется из classic) -->
+            <!-- Logback core -->
             <dependency>
                 <groupId>ch.qos.logback</groupId>
                 <artifactId>logback-core</artifactId>
@@ -69,10 +70,66 @@
         </dependencies>
     </dependencyManagement>
 
+    <!-- Общие зависимости для всех модулей -->
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-junit4</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+        </dependency>
+    </dependencies>
+
     <!-- Модули проекта -->
     <modules>
         <module>common</module>
         <module>api</module>
         <module>ui</module>
     </modules>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-surefire-plugin</artifactId>
+                    <version>3.2.5</version>
+                    <configuration>
+                        <argLine>
+                            -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
+                        </argLine>
+                        <systemProperties>
+                            <property>
+                                <name>allure.results.directory</name>
+                                <value>${project.build.directory}/allure-results</value>
+                            </property>
+                        </systemProperties>
+                    </configuration>
+                </plugin>
+
+                <plugin>
+                    <groupId>io.qameta.allure</groupId>
+                    <artifactId>allure-maven</artifactId>
+                    <version>2.12.0</version>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
 </project>

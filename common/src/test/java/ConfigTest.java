@@ -1,9 +1,9 @@
-package base;
-
 import com.example.utils.ConfigReader;
 import org.junit.Test;
 import static org.junit.Assert.*;
+import io.qameta.allure.*;
 
+@Feature("Config Tests")
 public class ConfigTest {
 
     @Test
