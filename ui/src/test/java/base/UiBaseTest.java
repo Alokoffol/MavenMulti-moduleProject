@@ -25,8 +25,12 @@ public class UiBaseTest {
         logStep("Настройка WebDriver");
         WebDriverManager.chromedriver().setup();
 
-        // Теперь IDEA найдет этот класс!
-        ChromeOptions options = ChromeOptionsConfig.createChromeOptions(false);
+        // Читаем headless из переменной окружения (true/false)
+        boolean headless = Boolean.parseBoolean(System.getenv("HEADLESS"));
+        log.info("🔹 Headless mode: {}", headless);
+
+        // Передаём headless в конфигуратор!
+        ChromeOptions options = ChromeOptionsConfig.createChromeOptions(headless);
 
         driver = new ChromeDriver(options);
 
