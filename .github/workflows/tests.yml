@@ -26,6 +26,13 @@ jobs:
           java-version: '11'
           distribution: 'temurin'
 
+      # УСТАНАВЛИВАЕМ CHROME И CHROMEDRIVER
+      - name: Setup Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          google-chrome --version
+
       - name: Cache Maven dependencies
         uses: actions/cache@v4
         with:
@@ -33,8 +40,12 @@ jobs:
           key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
           restore-keys: ${{ runner.os }}-m2
 
+      # ЗАПУСКАЕМ ТЕСТЫ С HEADLESS РЕЖИМОМ
       - name: Run tests
         run: mvn clean test
+        env:
+          HEADLESS: true
+          CHROME_OPTIONS: --headless --no-sandbox --disable-dev-shm-usage
 
       - name: Upload Allure results
         if: always()
@@ -43,6 +54,3 @@ jobs:
           name: allure-results
           path: '**/target/allure-results'
           retention-days: 7
-
-      # Временно убираем генерацию отчета
-      # Отчет будем смотреть локально или позже настроим по-другому

@@ -4,7 +4,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import java.util.HashMap;
 import java.util.Map;
 
-public class ChromeOptionsConfig {
+public class ChromeOptionsConfig {  // ← ЭТО БЫЛО ПРОПУЩЕНО!
 
     public static ChromeOptions createChromeOptions(boolean headless) {
         ChromeOptions options = new ChromeOptions();
@@ -25,8 +25,16 @@ public class ChromeOptionsConfig {
         options.addArguments("--disable-browser-side-navigation");
         options.addArguments("--incognito");
 
-        if (headless) {
+        // Читаем HEADLESS из environment переменной
+        boolean headlessFromEnv = Boolean.parseBoolean(System.getenv("HEADLESS"));
+        boolean isHeadless = headless || headlessFromEnv;
+
+        if (isHeadless) {
             options.addArguments("--headless");
+            options.addArguments("--no-sandbox");
+            options.addArguments("--disable-dev-shm-usage");
+            options.addArguments("--disable-gpu");
+            options.addArguments("--window-size=1920,1080");
         }
 
         return options;

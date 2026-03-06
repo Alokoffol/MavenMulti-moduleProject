@@ -4,6 +4,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -23,7 +24,11 @@ public class UiBaseTest {
 
         logStep("Настройка WebDriver");
         WebDriverManager.chromedriver().setup();
-        driver = new ChromeDriver();
+
+        // Теперь IDEA найдет этот класс!
+        ChromeOptions options = ChromeOptionsConfig.createChromeOptions(false);
+
+        driver = new ChromeDriver(options);
 
         logStep("Настройка окна браузера");
         driver.manage().window().maximize();
