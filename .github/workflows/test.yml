@@ -1,10 +1,18 @@
-name: Test Permissions
+name: Ultra Simple Test
 
-on: [push]
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - run: echo "Permissions fixed!"
+      - name: Checkout
+        run: echo "No checkout needed"
+
+      - name: Just echo
+        run: |
+          echo "Testing GitHub Actions"
+          echo "If this works, problem is with other actions"
