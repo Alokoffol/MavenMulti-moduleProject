@@ -26,11 +26,12 @@ jobs:
           key: ${{ runner.os }}-m2-${{ hashFiles('**/pom.xml') }}
           restore-keys: ${{ runner.os }}-m2
 
-      # Тестируем ТОЛЬКО common и api (без UI)
+      # Тестируем ТОЛЬКО common и api
       - name: Run tests with Maven
         run: mvn clean test -pl common,api
 
-      - name: Upload test results
+      # Сохраняем результаты Allure
+      - name: Upload Allure results
         uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -38,31 +39,26 @@ jobs:
           path: '**/target/allure-results'
           retention-days: 7
 
-      # ПОЛУЧАЕМ ИСТОРИЮ (если есть ветка gh-pages)
-      - name: Get Allure history
-        uses: actions/checkout@v4
+      # Альтернатива: публикуем результаты как отдельный артефакт для Pages
+      - name: Upload static files for GitHub Pages
         if: always()
-        continue-on-error: true
+        uses: actions/upload-pages-artifact@v4
         with:
-          ref: gh-pages
-          path: gh-pages
+          path: '**/target/allure-results'
 
-      # ГЕНЕРИРУЕМ ОТЧЕТ
-      - name: Allure Report with history
-        uses: simple-elf/allure-report-action@v1.9
-        if: always()
-        with:
-          allure_results: allure-results
-          gh_pages: gh-pages
-          allure_history: allure-history
-          keep_reports: 20
+  # Отдельная job для деплоя на Pages
+  deploy:
+    needs: test
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
-      # ПУБЛИКУЕМ НА GITHUB PAGES
-      - name: Deploy report to Github Pages
-        if: always()
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: allure-history
-          keep_files: true
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
