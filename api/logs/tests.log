@@ -684,3 +684,33 @@
 2026-03-06 18:50:07.242 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
 2026-03-06 18:50:07.259 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
 2026-03-06 18:50:07.262 [main] INFO  PostApiTest - РЎРѕР·РґР°РЅ РїРѕСЃС‚ СЃ ID: 101
+2026-03-06 19:59:53.948 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Обычная задача
+2026-03-06 19:59:53.960 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=1, title='Купить хлеб', completed=false
+2026-03-06 19:59:53.966 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 19:59:54.649 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 19:59:54.649 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Обычная задача' пройден
+2026-03-06 19:59:54.651 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Завершённая задача
+2026-03-06 19:59:54.651 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=2, title='Сделать домашку', completed=true
+2026-03-06 19:59:54.652 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 19:59:54.958 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 19:59:54.959 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Завершённая задача' пройден
+2026-03-06 19:59:54.960 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Длинный заголовок
+2026-03-06 19:59:54.961 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=1, title='Очень длинный заголовок, который может быть длиннее обычного и проверить как API с этим справляется', completed=false
+2026-03-06 19:59:54.961 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 19:59:55.219 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 19:59:55.219 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Длинный заголовок' пройден
+2026-03-06 19:59:55.221 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Пустой заголовок
+2026-03-06 19:59:55.221 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=3, title='', completed=false
+2026-03-06 19:59:55.221 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 19:59:55.480 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 19:59:55.480 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Пустой заголовок' пройден
+2026-03-06 19:59:55.482 [main] INFO  ParameterizedTodoTest - ШАГ: Тест: Спецсимволы в заголовке
+2026-03-06 19:59:55.482 [main] INFO  ParameterizedTodoTest - ШАГ: Создаём Todo с userId=5, title='Спецсимволы !@#$%', completed=true
+2026-03-06 19:59:55.482 [main] INFO  ParameterizedTodoTest - ШАГ: Отправляем POST запрос
+2026-03-06 19:59:55.888 [main] INFO  ParameterizedTodoTest - ШАГ: Проверяем результат
+2026-03-06 19:59:55.888 [main] INFO  ParameterizedTodoTest - ШАГ: ? Тест для 'Спецсимволы в заголовке' пройден
+2026-03-06 19:59:55.891 [main] INFO  PostApiTest - ШАГ: Отправляем GET запрос на /posts
+2026-03-06 19:59:56.057 [main] INFO  PostApiTest - Получено постов: 100
+2026-03-06 19:59:56.057 [main] INFO  PostApiTest - Первый пост: sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+2026-03-06 19:59:56.060 [main] INFO  PostApiTest - ШАГ: Создаем новый пост
+2026-03-06 19:59:56.316 [main] INFO  PostApiTest - Создан пост с ID: 101

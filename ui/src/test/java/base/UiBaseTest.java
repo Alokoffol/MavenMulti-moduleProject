@@ -1,10 +1,13 @@
 package base;
 
+import com.example.utils.DockerWebDriverFactory;
 import org.junit.After;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -22,17 +25,20 @@ public class UiBaseTest {
         log.info("НАЧАЛО UI ТЕСТА: {}", getClass().getSimpleName());
         log.info("=".repeat(60));
 
-        logStep("Настройка WebDriver");
-        WebDriverManager.chromedriver().setup();
-
-        // Читаем headless из переменной окружения (true/false)
+        // Читаем настройки
         boolean headless = Boolean.parseBoolean(System.getenv("HEADLESS"));
+        boolean useDocker = Boolean.parseBoolean(System.getenv("USE_DOCKER"));
+        String browser = System.getenv("BROWSER") != null ? System.getenv("BROWSER") : "chrome";
+
+        log.info("🔹 Браузер: {}", browser);
         log.info("🔹 Headless mode: {}", headless);
+        log.info("🔹 Docker mode: {}", useDocker);
 
-        // Передаём headless в конфигуратор!
-        ChromeOptions options = ChromeOptionsConfig.createChromeOptions(headless);
-
-        driver = new ChromeDriver(options);
+        if (useDocker) {
+            driver = createDockerDriver(browser);
+        } else {
+            driver = createLocalDriver(browser, headless);
+        }
 
         logStep("Настройка окна браузера");
         driver.manage().window().maximize();
@@ -42,6 +48,37 @@ public class UiBaseTest {
         driver.get(BASE_URL);
 
         log.info("✅ Браузер запущен, страница загружена");
+    }
+
+    private WebDriver createLocalDriver(String browser, boolean headless) {
+        logStep("Настройка локального WebDriver");
+        WebDriverManager.chromedriver().setup();
+
+        switch (browser.toLowerCase()) {
+            case "firefox":
+                FirefoxOptions firefoxOptions = new FirefoxOptions();
+                if (headless) {
+                    firefoxOptions.addArguments("--headless");
+                }
+                return new FirefoxDriver(firefoxOptions);
+
+            case "chrome":
+            default:
+                ChromeOptions options = ChromeOptionsConfig.createChromeOptions(headless);
+                return new ChromeDriver(options);
+        }
+    }
+
+    private WebDriver createDockerDriver(String browser) {
+        log.info("🐳 Подключаемся к Selenium в Docker");
+
+        switch (browser.toLowerCase()) {
+            case "firefox":
+                return DockerWebDriverFactory.createFirefoxInDocker();
+            case "chrome":
+            default:
+                return DockerWebDriverFactory.createChromeInDocker();
+        }
     }
 
     @After
